@@ -4,9 +4,5 @@ title: "Samantha Sellinger"
 
 Hello!
 
-Welcome to my website.
-
-```{r}
-x="bean"
-print(x)
-```
+Welcome to my website. :)
+ 

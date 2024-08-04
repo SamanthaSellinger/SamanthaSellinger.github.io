@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Samantha Sellinger",
     "section": "",
-    "text": "#Hello!\nWelcome to my website.\n\nx=\"bean\"\nprint(x)\n\n[1] \"bean\""
+    "text": "Hello!\nWelcome to my website.\n\nx=\"bean\"\nprint(x)\n\n[1] \"bean\""
   }
 ]

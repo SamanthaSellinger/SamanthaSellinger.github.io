@@ -2,7 +2,7 @@
 title: "Samantha Sellinger"
 ---
 
-#Hello!
+Hello!
 
 Welcome to my website.
 

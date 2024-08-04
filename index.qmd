@@ -1,11 +1,12 @@
 ---
-title: "SamanthaSellinger.github.io"
+title: "Samantha Sellinger"
 ---
 
-This is a Quarto website.
+#Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my website.
 
 ```{r}
-1 + 1
+x="bean"
+print(x)
 ```

@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\nHello!\nWelcome to my website!\nI am a fifth year student at the University of Ottawa, completing an Honours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.\n\n\nEducation\nUniversity of Ottawa (2020-Present):\n\nHonours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.\nDean’s Honours List for Winter 2023 and Winter 2024.\nTopics of Interest: Algorithm Analysis and Design, Discrete Mathematics, Programming, Data Analysis.\n\n\n\nWork Experience\n\nStatistics Canada, Part-time Student (September 2024 - Present)\n\nTranslation of SAS production files to Python.\nMember of the StatCan R/Python Users Group (RPUG) management team.\n\n\n\nStatistics Canada, Co-op Student (May 2024 - August 2024)\n\nTranslation of SAS production program to Python.\nDevelopment of PowerBi Dashboards used to facilitate the data quality assurance processes.\nCreation of Python tests to assist in data analysis of production tasks.\nMember of the StatCan R/Python Users Group (RPUG) management team and committee.\n\n\n\nGlobal Affairs Canada, Junior Data Science Analyst (May 2023 - April 2024)\n\nPerformed data quality assurance in the production process of the Statistical Report on International Assistance.\nAided in the publication of the 2022-2023 Statistical Report on International Assistance.\nCreated and maintained a PowerBi Dashboard that tracks divisional activities in relation to ad hoc reporting.\nAssisted with ad hoc reporting."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Samantha Sellinger",
     "section": "",
-    "text": "Hello!\nWelcome to my website. I am a fifth year student at the University of Ottawa, completing an Honours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.\n\n\nEducation\nUniversity of Ottawa (2020-Present):\n\nHonours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.\nPlaced on the Dean’s Honours List for Winter 2023 and Winter 2024.\nTopics of Interest: Algorithm Analysis, Numerical Methods, Machine Learning, Discrete Mathematics, Programming.\n\n\n\nWork Experience\n\nStatistics Canada, Student (September 2024 - Present)\n\nTranslation of SAS production files to Python.\nMember of the StatCan R/Python Users Group (RPUG) management team.\n\n\n\nStatistics Canada, Co-op Student (May 2024 - August 2024)\n\nTranslation of SAS production program to Python.\nDevelopment of PowerBi Dashboards used to facilitate the data quality assurance processes.\nCreation of Python tests to assist in data analysis of production tasks.\nMember of the StatCan R/Python Users Group (RPUG) management team and committee.\n\n\n\nGlobal Affairs Canada, Junior Data Science Analyst (May 2023 - April 2024)\n\nPerformed data quality assurance in the production process of the Statistical Report on International Assistance.\nAided in the publication of the 2022-2023 Statistical Report on International Assistance.\nCreated and maintained a PowerBi Dashboard that tracks divisional activities in relation to ad hoc reporting.\nAssisted with ad hoc reporting."
+    "text": "Hello and welcome to my website!\nI am a fifth year student at the University of Ottawa, completing a major in Mathematics and minor in Computer Science for Scientists. I am also a part-time employee at Statistics Canada, and member of the Statistics Canada R/Python User Group.\nWhen I’m not working or studying, I enjoy spending time with my cat, reading, or working out!\n\nEducation\nUniversity of Ottawa | BSc Major in Mathematics | May 2020 - Present\n\nMinor in Computer Science for Scientists\n\n\n\nExperience\nStatistics Canada | Student | May 2024 - present\nGlobal Affairs Canada | Junior Data Science Analyst | May 2023 - April 2024"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Samantha Sellinger",
+    "section": "Education",
+    "text": "Education\nUniversity of Ottawa | Ottawa, ON BSc Major Mathematics | May 2020 - Present\n- Minor in Computer Science for Scientists"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Samantha Sellinger",
+    "section": "Experience",
+    "text": "Experience\nStatistics Canada | Student | May 2024 - present\nGlobal Affairs Canada | Junior Data Science Analyst | May 2023 - April 2024"
   }
 ]

@@ -2,46 +2,34 @@
 title: "Samantha Sellinger"
 ---
 
-### Hello!
+---
+title: "Samantha Sellinger"
+about:
+  template: solana
+  image: media/pfp.jpg
+  links:
+    - icon: linked
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samantha-sellinger-6a636a2b8/
+    - icon: github
+      text: Github
+      href: https://github.com/SamanthaSellinger
+---
 
-Welcome to my website. I am a fifth year student at the University of Ottawa, completing an Honours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.
+Hello and welcome to my website!
+
+I am a fifth year student at the University of Ottawa, completing a major in Mathematics and minor in Computer Science for Scientists. I am also a part-time employee at Statistics Canada, and member of the Statistics Canada R/Python User Group.
+
+When I'm not working or studying, I enjoy spending time with my cat, reading, or working out!
 
 ### Education
 
-University of Ottawa (2020-Present):
+University of Ottawa \| BSc Major in Mathematics \| May 2020 - Present
 
--   Honours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.
+-   Minor in Computer Science for Scientists
 
--   Placed on the Dean's Honours List for Winter 2023 and Winter 2024.
+### Experience
 
--   Topics of Interest: Algorithm Analysis, Numerical Methods, Machine Learning, Discrete Mathematics, Programming.
+Statistics Canada \| Student \| May 2024 - present
 
-### Work Experience
-
-#### Statistics Canada, Student (September 2024 - Present)
-
--   Translation of SAS production files to Python.
-
--   Member of the StatCan R/Python Users Group (RPUG) management team.
-
-#### Statistics Canada, Co-op Student (May 2024 - August 2024)
-
--   Translation of SAS production program to Python.
-
--   Development of PowerBi Dashboards used to facilitate the data quality assurance processes.
-
--   Creation of Python tests to assist in data analysis of production tasks.
-
--   Member of the StatCan R/Python Users Group (RPUG) management team and committee.
-
-#### Global Affairs Canada, Junior Data Science Analyst (May 2023 - April 2024)
-
--   Performed data quality assurance in the production process of the Statistical Report on International Assistance.
-
--   Aided in the publication of the 2022-2023 Statistical Report on International Assistance.
-
--   Created and maintained a PowerBi Dashboard that tracks divisional activities in relation to ad hoc reporting.
-
--   Assisted with ad hoc reporting.
-
-### 
+Global Affairs Canada \| Junior Data Science Analyst \| May 2023 - April 2024

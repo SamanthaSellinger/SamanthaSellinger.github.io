@@ -1,26 +1,8 @@
 ---
-title: "About"
+title: "Experience"
+format: html
+editor: visual
 ---
-
-About this site
-
-### Hello!
-
-Welcome to my website!
-
-I am a fifth year student at the University of Ottawa, completing an Honours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.
-
-### Education
-
-University of Ottawa (2020-Present):
-
--   Honours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.
-
--   Dean's Honours List for Winter 2023 and Winter 2024.
-
--   Topics of Interest: Algorithm Analysis and Design, Discrete Mathematics, Programming, Data Analysis.
-
-### Work Experience
 
 #### Statistics Canada, Part-time Student (September 2024 - Present)
 
@@ -47,5 +29,3 @@ University of Ottawa (2020-Present):
 -   Created and maintained a PowerBi Dashboard that tracks divisional activities in relation to ad hoc reporting.
 
 -   Assisted with ad hoc reporting.
-
-### 

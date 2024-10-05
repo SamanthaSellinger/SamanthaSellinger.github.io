@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Education",
     "section": "",
-    "text": "About this site\n\nHello!\nWelcome to my website!\nI am a fifth year student at the University of Ottawa, completing an Honours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.\n\n\nEducation\nUniversity of Ottawa (2020-Present):\n\nHonours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.\nDean’s Honours List for Winter 2023 and Winter 2024.\nTopics of Interest: Algorithm Analysis and Design, Discrete Mathematics, Programming, Data Analysis.\n\n\n\nWork Experience\n\nStatistics Canada, Part-time Student (September 2024 - Present)\n\nTranslation of SAS production files to Python.\nMember of the StatCan R/Python Users Group (RPUG) management team.\n\n\n\nStatistics Canada, Co-op Student (May 2024 - August 2024)\n\nTranslation of SAS production program to Python.\nDevelopment of PowerBi Dashboards used to facilitate the data quality assurance processes.\nCreation of Python tests to assist in data analysis of production tasks.\nMember of the StatCan R/Python Users Group (RPUG) management team and committee.\n\n\n\nGlobal Affairs Canada, Junior Data Science Analyst (May 2023 - April 2024)\n\nPerformed data quality assurance in the production process of the Statistical Report on International Assistance.\nAided in the publication of the 2022-2023 Statistical Report on International Assistance.\nCreated and maintained a PowerBi Dashboard that tracks divisional activities in relation to ad hoc reporting.\nAssisted with ad hoc reporting."
+    "text": "University of Ottawa (2020-Present):\n\nHonours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.\nDean’s Honours List for Winter 2023 and Winter 2024.\nTopics of Interest: Algorithm Analysis and Design, Discrete Mathematics, Programming, Data Analysis."
   },
   {
     "objectID": "index.html",
@@ -26,5 +26,19 @@
     "title": "Samantha Sellinger",
     "section": "Experience",
     "text": "Experience\nStatistics Canada | Student | May 2024 - present\nGlobal Affairs Canada | Junior Data Science Analyst | May 2023 - April 2024"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Statistics Canada, Part-time Student (September 2024 - Present)\n\nTranslation of SAS production files to Python.\nMember of the StatCan R/Python Users Group (RPUG) management team.\n\n\n\nStatistics Canada, Co-op Student (May 2024 - August 2024)\n\nTranslation of SAS production program to Python.\nDevelopment of PowerBi Dashboards used to facilitate the data quality assurance processes.\nCreation of Python tests to assist in data analysis of production tasks.\nMember of the StatCan R/Python Users Group (RPUG) management team and committee.\n\n\n\nGlobal Affairs Canada, Junior Data Science Analyst (May 2023 - April 2024)\n\nPerformed data quality assurance in the production process of the Statistical Report on International Assistance.\nAided in the publication of the 2022-2023 Statistical Report on International Assistance.\nCreated and maintained a PowerBi Dashboard that tracks divisional activities in relation to ad hoc reporting.\nAssisted with ad hoc reporting."
+  },
+  {
+    "objectID": "experience.html#my-experience",
+    "href": "experience.html#my-experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Translation of SAS production files to Python.\nMember of the StatCan R/Python Users Group (RPUG) management team.\n\n\n\n\n\nTranslation of SAS production program to Python.\nDevelopment of PowerBi Dashboards used to facilitate the data quality assurance processes.\nCreation of Python tests to assist in data analysis of production tasks.\nMember of the StatCan R/Python Users Group (RPUG) management team and committee.\n\n\n\n\n\nPerformed data quality assurance in the production process of the Statistical Report on International Assistance.\nAided in the publication of the 2022-2023 Statistical Report on International Assistance.\nCreated and maintained a PowerBi Dashboard that tracks divisional activities in relation to ad hoc reporting.\nAssisted with ad hoc reporting."
   }
 ]

@@ -10,10 +10,13 @@ website:
         text: Home
       - education.qmd
       - experience.qmd
+      - moreaboutme.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: lumen
+      dark: solar
     css: styles.css
     toc: false
 

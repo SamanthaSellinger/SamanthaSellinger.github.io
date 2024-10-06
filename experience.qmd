@@ -4,13 +4,13 @@ format: html
 editor: visual
 ---
 
-#### Statistics Canada, Part-time Student (September 2024 - Present)
+### Statistics Canada, Part-time Student (September 2024 - Present)
 
 -   Translation of SAS production files to Python.
 
 -   Member of the StatCan R/Python Users Group (RPUG) management team.
 
-#### Statistics Canada, Co-op Student (May 2024 - August 2024)
+### Statistics Canada, Co-op Student (May 2024 - August 2024)
 
 -   Translation of SAS production program to Python.
 
@@ -20,7 +20,7 @@ editor: visual
 
 -   Member of the StatCan R/Python Users Group (RPUG) management team and committee.
 
-#### Global Affairs Canada, Junior Data Science Analyst (May 2023 - April 2024)
+### Global Affairs Canada, Junior Data Science Analyst (May 2023 - April 2024)
 
 -   Performed data quality assurance in the production process of the Statistical Report on International Assistance.
 

@@ -2,12 +2,49 @@
 title: "Education"
 ---
 
-
-University of Ottawa (2020-Present):
+### University of Ottawa (2020-Present)
 
 -   Honours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.
 
 -   Dean's Honours List for Winter 2023 and Winter 2024.
 
--   Topics of Interest: Algorithm Analysis and Design, Discrete Mathematics, Programming, Data Analysis.
+-   **Topics of interest:** Algorithm analysis and design, graph theory, discrete mathematics, data structures and algorithms, data analysis.
 
+-   **Technical Skills**
+
+    -   Object-oriented programming with Java, abstract data types and complexity
+        analysis.					
+
+    -   Programming in Python, problem solving and algorithmic design.
+
+    -   Use of Tableau for visualization.
+
+    -   Fluent in R for statistics and machine learning.
+
+    -   Accustomed to the use of Microsoft Office for day to day communication and project management.
+
+    -   Git for version control and collaboration.
+
+-   **Mathematical Skills**
+
+    -   Knowledge of statistical distributions in probability, such as
+        binomial, geometric, Poisson, etc.
+
+    -   Understanding of conditional probability, independent events, Bayes' Theorem, and their applications in probability and statistics
+        through many assignments.
+
+    -   Machine learning techniques such as polynomial regression, logistic regression, k-nearest neighbours, and neural networks.
+
+    -   Thorough understanding of discrete mathematics, and its applications in computer science.
+
+    -   Experience studying cryptography systems.
+
+        				
+        			
+        		
+
+        	
+
+        	
+
+        	

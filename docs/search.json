@@ -46,6 +46,13 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "University of Ottawa (2020-Present):\n\nHonours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.\nDean’s Honours List for Winter 2023 and Winter 2024.\nTopics of Interest: Algorithm Analysis and Design, Discrete Mathematics, Programming, Data Analysis."
+    "text": "University of Ottawa (2020-Present)\n\nHonours Bachelor of Science with a Major in Mathematics (Co-op) and Minor in Computer Science for Scientists.\nDean’s Honours List for Winter 2023 and Winter 2024.\nTopics of interest: Algorithm analysis and design, graph theory, discrete mathematics, data structures and algorithms, data analysis.\nTechnical Skills\n\nObject-oriented programming with Java, abstract data types and complexity analysis.\nProgramming in Python, problem solving and algorithmic design.\nUse of Tableau for visualization.\nFluent in R for statistics and machine learning.\nAccustomed to the use of Microsoft Office for day to day communication and project management.\nGit for version control and collaboration.\n\nMathematical Skills\n\nKnowledge of statistical distributions in probability, such as binomial, geometric, Poisson, etc.\nUnderstanding of conditional probability, independent events, Bayes’ Theorem, and their applications in probability and statistics through many assignments.\nMachine learning techniques such as polynomial regression, logistic regression, k-nearest neighbours, and neural networks.\nThorough understanding of discrete mathematics, and its applications in computer science.\nExperience studying cryptography systems."
+  },
+  {
+    "objectID": "moreaboutme.html",
+    "href": "moreaboutme.html",
+    "title": "More About Me",
+    "section": "",
+    "text": "Projects"
   }
 ]
